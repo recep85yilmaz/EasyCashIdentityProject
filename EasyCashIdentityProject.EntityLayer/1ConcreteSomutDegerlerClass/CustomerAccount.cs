@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EasyCashIdentityProject.EntityLayer._1ConcreteSomutDegerler
+namespace EasyCashIdentityProject.EntityLayer._1ConcreteSomutDegerlerClass
 {
     public class CustomerAccount
     {
